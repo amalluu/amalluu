@@ -16,12 +16,13 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 [Smart Weather & Outfit Recommender](https://github.com/amalluu/weather-app)  
+🔹 [Fake News Detection with Machine Learning](https://github.com/amalluu/fakenews_detection_model) 
 🔹 [Stock Data Analysis (Tesla & GameStop)](https://github.com/amalluu/tesla-gamestop-stockanalysis-project)  
-🔹 [UPI-Based Sanitary Pad Vending Machine](https://github.com/amalluu/sanitary-vending)  
-🔹 [Student Performance Prediction (ML Project)](https://github.com/amalluu/student-prediction-model)  
-🔹 [Fake News Detection with Machine Learning](https://github.com/amalluu/fakenews_detection_model)  
 🔹 [ML models from Scratch](https://github.com/amalluu/ml-models-from-scratch)  
+🔹 [Student Performance Prediction (ML Project)](https://github.com/amalluu/student-prediction-model)  
+
+🔹 [Smart Weather & Outfit Recommender](https://github.com/amalluu/weather-app)  
+🔹 [UPI-Based Sanitary Pad Vending Machine](https://github.com/amalluu/sanitary-vending)  
 ---
 
 ## 📑 Certifications  
