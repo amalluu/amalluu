@@ -21,7 +21,7 @@
 🔹 [UPI-Based Sanitary Pad Vending Machine](https://github.com/amalluu/sanitary-vending)  
 🔹 [Student Performance Prediction (ML Project)](https://github.com/amalluu/student-prediction-model)  
 🔹 [Fake News Detection with Machine Learning](https://github.com/amalluu/fakenews_detection_model)  
-🔹 [Fake News Detection with Machine Learning](https://github.com/amalluu/ml-models-from-scratch)  
+🔹 [ML models from Scratch](https://github.com/amalluu/ml-models-from-scratch)  
 ---
 
 ## 📑 Certifications  
