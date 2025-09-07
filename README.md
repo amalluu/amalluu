@@ -13,10 +13,10 @@
 **Platforms & Tools:** AWS, Node.js, Razorpay, Tableau, Excel, Git  
 **Libraries:** pandas, NumPy, Matplotlib, Plotly, yfinance, BeautifulSoup, Scikit-learn  
 
----
+--
 
 ## 📌 Featured Projects  
-🔹 [Fake News Detection with Machine Learning](https://github.com/amalluu/fakenews_detection_model) 
+🔹 [Fake News Detection with Machine Learning](https://github.com/amalluu/fakenews_detection_model)
 🔹 [Stock Data Analysis (Tesla & GameStop)](https://github.com/amalluu/tesla-gamestop-stockanalysis-project)  
 🔹 [ML models from Scratch](https://github.com/amalluu/ml-models-from-scratch)  
 🔹 [Student Performance Prediction (ML Project)](https://github.com/amalluu/student-prediction-model)  
