@@ -13,7 +13,7 @@
 **Platforms & Tools:** AWS, Node.js, Razorpay, Tableau, Excel, Git  
 **Libraries:** pandas, NumPy, Matplotlib, Plotly, yfinance, BeautifulSoup, Scikit-learn  
 
---
+---
 
 ## 📌 Featured Projects  
 🔹 [Fake News Detection with Machine Learning](https://github.com/amalluu/fakenews_detection_model)
@@ -22,7 +22,7 @@
 🔹 [Student Performance Prediction (ML Project)](https://github.com/amalluu/student-prediction-model)  
 🔹 [Smart Weather & Outfit Recommender](https://github.com/amalluu/weather-app)  
 🔹 [UPI-Based Sanitary Pad Vending Machine](https://github.com/amalluu/sanitary-vending)
---
+---
 
 ## 📑 Certifications  
 - 📊 Data Analytics (Coursera / Simplilearn) (Jun 2025) 
